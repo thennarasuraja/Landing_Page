@@ -978,7 +978,7 @@
           class="fixed top-0 bottom-0 left-0 right-0 z-20 flex items-center content-center justify-center backdrop-blur-[8px] bg-black/75"
         >
           <div
-            class="max-w-[800px] overflow-x-hidden h-[400px] md:h-full md:w-[800px] w-[300px] p-8 mx-auto bg-white border border-gray-300 rounded-lg"
+            class="max-w-[800px] overflow-x-hidden h-[400px] md:h-auto md:w-[800px] w-[300px] p-8 mx-auto bg-white border border-gray-300 rounded-lg"
           >
             <h2 class="mb-6 text-2xl font-bold">Enquiry Form</h2>
             <form class="w-full">
